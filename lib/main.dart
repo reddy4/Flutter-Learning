@@ -20,7 +20,7 @@ class HelloWorld extends StatelessWidget {
            child: Container(
              child: const Text('Welcome to Dart Programming Language',
                     style: TextStyle(
-                      fontSize: 16,
+                      fontSize: 15,
                       fontWeight: FontWeight.bold,
                       color: Colors.lightBlue
                     ),
